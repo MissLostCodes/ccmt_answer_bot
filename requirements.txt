@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+chromadb
+python-dotenv
+pypdf
+streamlit-analytics
+langchain-google-genai
+PyPDF2

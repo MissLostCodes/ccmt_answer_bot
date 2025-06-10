@@ -10,3 +10,4 @@ pypdf
 streamlit-analytics
 langchain-google-genai
 PyPDF2
+numpy<2.0
